@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noidungyeuthich</title>
+</head>
+<body>
+    <h1>Nội dung yêu thích</h1>
+    <h2>Hình ảnh</h2>
+    <table>
+        <tr>
+            <td><img src="A2.jpg" width="500" height="250"></td>
+            <td><img src="anh-bien-dep-nhat-the-gioi_094949065.jpg" width="500" height="250"></td>
+        </tr>
+        <tr>
+            <td><img src="hinh-anh-hoang-hon-tren-bien-dep_083958120.jpg" width="500" height="250"></td>
+            <td><img src="istockphoto-610041376-612x612.jpg" width="500" height="250"></td>
+        </tr>
+    </table>
+</body>
+</html>
